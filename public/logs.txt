@@ -1,0 +1,354 @@
+Transaction ID: 8526266861, Win Reference Number: 16488025593, Prepared Token: 852626686116488025593b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTIvNTAjdQ
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTIvNTAjdQ' />
+                                    <Balance Type='int' Value='138984' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='125' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Transaction ID: 8526267687, Win Reference Number: 16488027068, Prepared Token: 852626768716488027068b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTIvNTAjdQ
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTIvNTAjdQ' />
+                                    <Balance Type='int' Value='138944' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='127' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Transaction ID: 8526288409, Win Reference Number: 16488066399, Prepared Token: 852628840916488066399b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTIvNTAjdQ
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTIvNTAjdQ' />
+                                    <Balance Type='int' Value='138904' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='129' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI7MDhjdQ' />
+                                    <Balance Type='int' Value='138864' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='131' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138824' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='133' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138784' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='135' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138744' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='137' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138704' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='139' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138664' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='141' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138624' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='143' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138584' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='145' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138744' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='147' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTI3MnIjdQ' />
+                                    <Balance Type='int' Value='138704' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='149' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTM2OTUjdQ' />
+                                    <Balance Type='int' Value='138688' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='151' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICIvIjpj9HJxfkomZXIjOjAj91Fr91EjLCJzYW2oIilhIzBz962neGa7LUZx9zR2ekVU8Wfo9jIrIzBtIilhIzN2YWJofC2tZXQjLCJ78W2oIilhIiE5MDhqMTM2OTUjdQ' />
+                                    <Balance Type='int' Value='138648' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='153' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='12140' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='155' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='12100' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='157' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='12060' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='159' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='12020' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='161' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11980' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='163' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11940' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='165' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11900' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='167' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11860' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='169' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11860' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='171' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11820' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='173' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11780' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='175' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
+Response: 
+                        <PKT>
+                            <Result Name='AwardWinnings' Success='1'>
+                                <Returnset>
+                                    <Token Type='string' Value='b6JnfGF7fXMjOjB79zVoLCJwZCIyICInNjIrIzB6e5ZwZGV6IilhIzNgeHNgIjpjZ1FuZSIyICJpZ5Mu91vxfC2Ge5J7fW3oVGozZXIjLCJpejIyICJnfWFjZXQuekV7IjpjfGouZSIyICIvNnAqODE2MD9pIz7' />
+                                    <Balance Type='int' Value='11740' />
+                                    <Currency Type='string' Value='BRL' />
+                                    <ExtTransactionID Type='long' Value='177' />
+                                    <AlreadyProcessed Type='bool' Value='false' />
+                                </Returnset>
+                            </Result>
+                        </PKT>
+                    
