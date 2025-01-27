@@ -64,4 +64,4 @@ Follow these steps to set up your casino site on a VPS:
 ## SCREENSHOTS 
 ![HOME](https://i.ibb.co/G5sxRVz/screencapture-swapvpn-2024-11-26-04-23-57.png "HOME")
 
-> Please note that this is only a free versino which is not from us if you want to have real websites then you can contact us via telegram or email
+> Copyright © 2025 Casino-Scripts.com. All rights reserved.All other trademarks, screenshots, logos and copyrights are the property of Casino-Scripts.com.
